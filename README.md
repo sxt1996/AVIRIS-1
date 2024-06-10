@@ -15,7 +15,7 @@ In this sub-image, the three airplanes to be detected contain 34, 42, and 44 pix
 1. Install R2014a or higher versions of MATLAB.
 2. Download this data package.
 3. Import data.
-4. data: 3-D data cube; map: ground-truth map.
+4. Description of variables. "data": 3-D data cube; "map": ground-truth map
 # Contact
 If you have any questions, please feel free to contact me.
 sxt1996@outlook.com
